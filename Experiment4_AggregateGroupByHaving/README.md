@@ -302,9 +302,7 @@ HAVING SUM(price) > 50;
 **Output:**
 
 <img width="1208" height="395" alt="image" src="https://github.com/user-attachments/assets/50ba8057-6f33-4747-be04-8466d16d4fd2" />
-**Output:**
 
-<img width="1915" height="999" alt="image" src="https://github.com/user-attachments/assets/6f926e3f-8984-49ca-83d3-84c5aa1e960e" />
 
 
 
