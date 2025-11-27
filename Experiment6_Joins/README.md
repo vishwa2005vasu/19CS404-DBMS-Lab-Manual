@@ -439,8 +439,7 @@ JOIN salesman s
 **Output:**
 
 <img width="1280" height="961" alt="image" src="https://github.com/user-attachments/assets/59b1a5d3-5f80-4b54-9242-0ba55d56a4f2" />
-**Output:**
-<img width="1915" height="1075" alt="image" src="https://github.com/user-attachments/assets/c6057419-be14-4e07-b7e5-e4bf74878409" />
+
 
 
 
