@@ -301,8 +301,7 @@ Amount REAL check(Amount>0)
 **Output:**
 <img width="1218" height="350" alt="image" src="https://github.com/user-attachments/assets/3a0a315e-dd6a-4f01-b1e2-3583d4cc4b46" />
 
-**Output:**
-<img width="1848" height="1052" alt="image" src="https://github.com/user-attachments/assets/2b7d30dd-a62f-426b-ae1f-a4d134d5a935" />
+
 
 
 ## RESULT
